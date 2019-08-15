@@ -1,0 +1,16 @@
+
+API 使用详解
+http://huili.github.io/fts3_exprc/getnextstring.html
+
+
+2，mmesg 词库解析支持
+
+1，内存存储
+
+3，事务模块裁剪
+
+
+http://oaokcs.cnki.net/
+
+
+centos7.5-万敏锋   知识管理中心  10.140.128.51  10.170.128.130  root123   4G x64 450G
